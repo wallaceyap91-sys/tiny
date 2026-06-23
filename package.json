@@ -3,9 +3,13 @@
   "version": "1.0.5",
   "description": "tiny npm package",
   "main": "index.js",
+  "homepage": "https://github.com/CodebyOmar/tiny",
   "repository": {
     "type": "git",
-    "url": "github.com/CodebyOmar/tiny"
+    "url": "git+https://github.com/CodebyOmar/tiny.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodebyOmar/tiny/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
